@@ -1,6 +1,6 @@
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![C#](https://img.shields.io/badge/language-C%23-blue?logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/platform-.NET-blueviolet?logo=.net)
+
 
 # Cronômetro Console
 
