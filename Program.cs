@@ -1,8 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using System.Security.Cryptography;
 using System;
 using System.Threading;
-using System.Threading.Channels;
 
 namespace Stopwatch
 {
@@ -51,12 +49,12 @@ namespace Stopwatch
 
         static void Start(int time)
         {
-            int currentTime = 0;
+            int currentTime = time;
 
-            while (currentTime != time)
+            while (currentTime != 0)
             {
                 Console.Clear();
-                currentTime++;
+                currentTime--;
                 Console.WriteLine(currentTime);
                 Thread.Sleep(1000);
             }

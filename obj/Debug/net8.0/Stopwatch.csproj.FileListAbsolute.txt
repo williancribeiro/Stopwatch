@@ -12,3 +12,4 @@ C:\dev\Stopwatch\obj\Debug\net8.0\refint\Stopwatch.dll
 C:\dev\Stopwatch\obj\Debug\net8.0\Stopwatch.pdb
 C:\dev\Stopwatch\obj\Debug\net8.0\Stopwatch.genruntimeconfig.cache
 C:\dev\Stopwatch\obj\Debug\net8.0\ref\Stopwatch.dll
+C:\dev\Stopwatch\obj\Debug\net8.0\Stopwatch.sourcelink.json
